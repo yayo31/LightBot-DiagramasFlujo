@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T17:39:22.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MT0WYVNGt_eOoDyeXRAO" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T17:41:08.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0-A9lnmtPeUp7vNgSZKz" version="21.6.9" type="github">
   <diagram name="Página-1" id="Z_8QZbGZmjloagxHLasW">
     <mxGraphModel dx="1120" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
         <mxCell id="EztPIS8EUHxAQPm5CFUI-106" value="f2()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EztPIS8EUHxAQPm5CFUI-108" value="f2() = {&lt;br&gt;avanza * 3&lt;br&gt;enciende interruptor}" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="EztPIS8EUHxAQPm5CFUI-108" value="f2() = {&lt;br&gt;avanza * 3;&lt;br&gt;enciende interruptor;}" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1970" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EztPIS8EUHxAQPm5CFUI-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EztPIS8EUHxAQPm5CFUI-109" target="EztPIS8EUHxAQPm5CFUI-111">
